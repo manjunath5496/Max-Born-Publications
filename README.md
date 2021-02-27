@@ -13,7 +13,9 @@
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Max-Born-Publications/blob/master/tst(115).pdf" style="text-decoration:none;">The Statistical Interpretation of Quantum Mechanics [Nobel Lecture]</a></li>
                             
+ <li><a target="_blank" href="https://github.com/manjunath5496/Max-Born-Publications/blob/master/tst(116).pdf" style="text-decoration:none;">Quantum Mechanics of Collision Processes</a></li>                              
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Max-Born-Publications/blob/master/tst(117).pdf" style="text-decoration:none;">Natural Philosophy of Cause and Chance</a></li>
 
 </ul>
 
